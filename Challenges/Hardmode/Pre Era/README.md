@@ -64,9 +64,10 @@ YzEtNTtzcGVsbC50b3hpY2l2eTtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2Zv
 ```
 **C6**
 
+Doesn't matter if you don't have the ultimate modules (Growth, Bulwark)
 `Import Code`
 ```
-YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5hdHVyZQ==
+NYwxCsMwEAS/EtRH4MZF9BTj4mytbOHjZE4nXIT8PYLE1Q7MsG+3cMOpWay612Ny6/AcQ0SCVHhFYqwWUmkSyXIRvylJNoS6g9mD1PY/C1lThN/0rlxd3U9L44v0cPPnCw==
 ```
 
 
